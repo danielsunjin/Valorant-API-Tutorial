@@ -98,7 +98,7 @@ img.show()
 
 The resulting image:
 
-![Jett Agent Image]()
+![Jett Agent Image](https://github.com/danielsunjin/Valorant-API-Tutorial/blob/main/Jett_image.PNG)
 
 Note: PIL refers to [Pillow](https://pillow.readthedocs.io/en/stable/), a Python imaging library that is not built into the language and will need to be installed. 
 
@@ -135,4 +135,4 @@ Drift: Holding the jump button while falling allows you to glide through the air
 See jett's portrait? (y/n): y
 
 ```
-![Jett Portrait]()
+![Jett Portrait](https://github.com/danielsunjin/Valorant-API-Tutorial/blob/main/Jett_image.PNG)
