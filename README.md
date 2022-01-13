@@ -1,4 +1,4 @@
-# Valorant-API-Tutoria
+# Valorant-API-Tutorial
 [Valorant](https://playvalorant.com/en-us/) is a popular FPS tactical shooter game developed by RIOT Games. In this game, players can choose to play different characters, called *agents*, with unique abilities. Information about these agents can be retrieved from the Valorant API in [JSON](https://en.wikipedia.org/wiki/JSON) (JavaScript Object Notation) format. This repository uses the Valorant API to give the reader an introductory tutorial to retrieving JSON data from APIs using Python. This tutorial assumes the reader has basic knowledge of Python, including data types and indexing.
 
 ### Retrieving Data From the Valorant API Using a GET Request
